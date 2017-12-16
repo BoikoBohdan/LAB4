@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80629d4-2a31-4084-85b0-dd3c5e28da34" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,11 +135,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="y" value="15" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="57" />
+    <option name="y" value="36" />
+    <option name="width" value="1863" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -156,10 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,6 +179,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -463,7 +463,10 @@
       <workItem from="1507109449313" duration="1168000" />
       <workItem from="1507467267347" duration="3354000" />
       <workItem from="1507472630981" duration="3316000" />
-      <workItem from="1513413005772" duration="3145000" />
+      <workItem from="1513413005772" duration="3628000" />
+      <workItem from="1513439181534" duration="24000" />
+      <workItem from="1513439323913" duration="32000" />
+      <workItem from="1513439520450" duration="423000" />
     </task>
     <servers />
   </component>
@@ -500,7 +503,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46546000" />
+    <option name="totallyTimeSpent" value="47508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,12 +515,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -530,7 +532,6 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24635416" sideWeight="0.4943274" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -541,7 +542,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -609,22 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding>
-            <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="e#522#567#0" expanded="false" />
-            <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,10 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
-            <element signature="method#sort#0;class#SortTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,29 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="17" />
-          <folding>
-            <element signature="method#getArrayLength#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getArythmeticMeanOfPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#isPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#isMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfMinNumAndDigits#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimumPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimum#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getNumberDigits#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="class#3781:3819" expanded="false" />
-            <element signature="initializer##0;class#3781:3819" expanded="false" />
-            <element signature="method#getMinNegative#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimumPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getCountOfItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumPairedOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getItemsOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfSecondAndMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,10 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
-            <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,18 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding>
-            <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -727,22 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding>
-            <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="e#522#567#0" expanded="false" />
-            <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,10 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
-            <element signature="method#sort#0;class#SortTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,29 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="method#getArrayLength#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getArythmeticMeanOfPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#isPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#isMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfMinNumAndDigits#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimumPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimum#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getNumberDigits#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="class#3781:3819" expanded="false" />
-            <element signature="initializer##0;class#3781:3819" expanded="false" />
-            <element signature="method#getMinNegative#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimumPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getCountOfItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumPairedOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getItemsOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfSecondAndMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,10 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
-            <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -802,18 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1700">
           <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding>
-            <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,22 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding>
-            <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="e#522#567#0" expanded="false" />
-            <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,18 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding>
-            <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -879,10 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
-            <element signature="method#sort#0;class#SortTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -899,10 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
-            <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,14 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#getIntInput#0;class#Helper#0" expanded="false" />
-            <element signature="method#showArray#0;class#Helper#0" expanded="false" />
-            <element signature="method#showMatrix#0;class#Helper#0" expanded="false" />
-            <element signature="method#cloneArray#0;class#Helper#0" expanded="false" />
-            <element signature="method#generateArray#0;class#Helper#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -984,14 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#getIntInput#0;class#Helper#0" expanded="false" />
-            <element signature="method#showArray#0;class#Helper#0" expanded="false" />
-            <element signature="method#showMatrix#0;class#Helper#0" expanded="false" />
-            <element signature="method#cloneArray#0;class#Helper#0" expanded="false" />
-            <element signature="method#generateArray#0;class#Helper#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1008,22 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding>
-            <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="e#522#567#0" expanded="false" />
-            <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1031,10 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
-            <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,18 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding>
-            <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
-            <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1068,10 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
-            <element signature="method#sort#0;class#SortTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,29 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="17" />
-          <folding>
-            <element signature="method#getArrayLength#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getArythmeticMeanOfPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#isPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#isMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfMinNumAndDigits#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimumPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimum#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getNumberDigits#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="class#3781:3819" expanded="false" />
-            <element signature="initializer##0;class#3781:3819" expanded="false" />
-            <element signature="method#getMinNegative#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMinimumPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getCountOfItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumPairedOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getPaired#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getItemsOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getSumOfSecondAndMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
-            <element signature="method#getMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1110,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1144,7 +917,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
